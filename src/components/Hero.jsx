@@ -12,13 +12,13 @@ const Hero = () => (
     >
       <div className='flex flex-row justify-between items-center w-full'>
         <h1 className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]'>
-          The Next
+          Introducing
           <br className='sm:block hidden' /> {'  '}
-          <span className='text-gradient'>Generation</span> {'  '}
+          <span className='text-gradient'>A Ray of Sunshine</span> {'  '}
         </h1>
       </div>
       <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>
-        Cleaning Service.
+        in Laundry Care
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         It is our mission to provide fine dry cleaning and laundry services at

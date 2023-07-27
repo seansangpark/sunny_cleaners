@@ -37,13 +37,14 @@ const Business = () => {
     >
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the business, <br className='sm:block hidden' />
-          we'll handle the money.
+          Fast and Reliable <br className='sm:block hidden' />
+          Dry Cleaning Services
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, you can improve your financial life by
-          building credit, earning rewards and saving money. But with hundreds
-          of credit cards on the market.
+          At Sunny Dry Cleaners & Alterations, we radiate positivity through
+          unparalleled laundry and garment care. With a focus on excellence,
+          environmental responsibility, and customer satisfaction, we brighten
+          lives and wardrobes with renewed freshness.
         </p>
 
         <Button styles='mt-10' />

@@ -93,13 +93,13 @@ export const stats = [
   },
   {
     id: 'stats-2',
-    title: 'Convenient Locations',
-    value: '2',
+    title: 'Satisfaction Guaranteed',
+    value: '100%',
   },
   {
     id: 'stats-3',
-    title: 'Dry Cleaning',
-    value: 'Green',
+    title: 'Convenient Locations',
+    value: '2',
   },
 ];
 
