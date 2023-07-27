@@ -25,10 +25,6 @@ export const navLinks = [
     title: 'Features',
   },
   {
-    id: 'product',
-    title: 'Product',
-  },
-  {
     id: 'clients',
     title: 'Clients',
   },
@@ -38,23 +34,23 @@ export const features = [
   {
     id: 'feature-1',
     icon: star,
-    title: 'Rewards',
+    title: 'Dry Cleaning Service',
     content:
-      'The best credit cards offer some tantalizing combinations of promotions and prizes',
+      'We understand the investment that you have made in your clothing.',
   },
   {
     id: 'feature-2',
     icon: shield,
-    title: '100% Secured',
+    title: 'Laundry Service',
     content:
-      'We take proactive steps make sure your information and transactions are secure.',
+      'We know that after a long day at work, laundry is the last thing you want to be doing.',
   },
   {
     id: 'feature-3',
     icon: send,
-    title: 'Balance Transfer',
+    title: 'Alterations',
     content:
-      'A balance transfer credit card can save you a lot of money in interest charges.',
+      'Our trained staff can meet any of your alteration needs, including dress, shirt, pants, and coat alterations.',
   },
 ];
 
@@ -62,25 +58,25 @@ export const feedback = [
   {
     id: 'feedback-1',
     content:
-      'Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.',
-    name: 'Herman Jensen',
-    title: 'Founder & Leader',
+      'I’ve been using this cleaners since ~2000. Very friendly and professional. Cleaning is done well; they will apply protection to ornate buttons and sequins. I’ve never had a problem with any of my dry cleaning when using Sunny Dry Cleaners on Sharon Lakes Drive/Road.',
+    name: 'Katie Mo',
+    title: '5⭐️ Google Review',
     img: people01,
   },
   {
     id: 'feedback-2',
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: 'Steve Mark',
-    title: 'Founder & Leader',
+      'The staff is very friendly, courteous, & professional...This is definitely a business that thinks long term and I will be taking all my dry cleaning here going forward!',
+    name: 'Reginald Allen',
+    title: '5⭐️ Google Review',
     img: people02,
   },
   {
     id: 'feedback-3',
     content:
-      'It is usually people in the money business, finance, and international trade that are really rich.',
-    name: 'Kenn Gallagher',
-    title: 'Founder & Leader',
+      "I have been coming to this business for a couple of years and have always had a good experience here. The service and quality of work is amazing! I would highly recommend this dry cleaning service as it's a great place with a happy owner always smiling and ready to assist.",
+    name: 'Daniel Martinez',
+    title: '5⭐️ Google Review',
     img: people03,
   },
 ];

@@ -16,8 +16,9 @@ const Testimonials = () => (
       </h1>
       <div className='w-full md:mt-9 mt-6'>
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Everything you need to accept card payments and grow your business
-          anywhere on the planet.
+          Revive your wardrobe with radiant cleanliness and experience warm,
+          top-notch service at <br />
+          Sunny Dry Cleaners & Alterations
         </p>
       </div>
     </div>
