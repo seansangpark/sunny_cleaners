@@ -81,8 +81,6 @@ Alternatively, you can set up automatic deployment using CI/CD pipelines with pl
 
 Contributions to the Sunny Dry Cleaners website are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on this GitHub repository. Feel free to fork the repository and create pull requests to propose changes.
 
-When contributing, please adhere to the [code of conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive atmosphere for all community members.
-
 ## Visit the Site
 
 Please visit the site at [Sunny Dry Cleaners](https://sunnydrycleaners.net/)
