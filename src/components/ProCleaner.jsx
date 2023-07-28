@@ -1,6 +1,6 @@
 import { pro } from '../assets';
 import styles, { layout } from '../style';
-import Button from './Button';
+import Button_2 from './Button_2';
 
 const ProCleaner = () => (
   <section className={layout.section}>
@@ -33,7 +33,7 @@ const ProCleaner = () => (
         Sunday: Closed
       </p>
 
-      {/* <Button styles='mt-10' /> */}
+      <Button_2 styles='mt-10' />
     </div>
 
     <div className={layout.sectionImg}>

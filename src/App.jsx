@@ -32,8 +32,9 @@ const App = () => (
         <Stats />
         <Business />
         <SunnyCleaner />
-        <ProCleaner />
         <Testimonials />
+        <ProCleaner />
+
         {/* <Clients /> */}
         <CTA />
         <Footer />
