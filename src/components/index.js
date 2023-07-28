@@ -1,6 +1,6 @@
 import Navbar from './NavBar';
-import Billing from './Billing';
-import CardDeal from './CardDeal';
+import SunnyCleaner from './SunnyCleaner';
+import ProCleaner from './ProCleaner';
 import Business from './Business';
 import Clients from './Clients';
 import CTA from './CTA';
@@ -11,8 +11,8 @@ import Hero from './Hero';
 
 export {
   Navbar,
-  Billing,
-  CardDeal,
+  SunnyCleaner,
+  ProCleaner,
   Business,
   Clients,
   CTA,

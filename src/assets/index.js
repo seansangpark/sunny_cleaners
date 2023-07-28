@@ -12,6 +12,7 @@ import send from './Send.svg';
 import shield from './Shield.svg';
 import star from './Star.svg';
 import sunny from './sunny.png';
+import sunny_inside from './sunny_inside.png';
 import menu from './menu.svg';
 import close from './close.svg';
 import google from './google.svg';
@@ -25,6 +26,7 @@ import twitter from './twitter.svg';
 import people01 from './people01.png';
 import people02 from './people02.png';
 import people03 from './people03.png';
+import pro from './pro.png';
 
 export {
   airbnb,
@@ -41,6 +43,7 @@ export {
   shield,
   star,
   sunny,
+  sunny_inside,
   menu,
   close,
   google,
@@ -54,4 +57,5 @@ export {
   people01,
   people02,
   people03,
+  pro,
 };
