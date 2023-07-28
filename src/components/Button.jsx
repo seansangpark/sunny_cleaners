@@ -1,5 +1,8 @@
 const Button = ({ styles }) => {
-  const handleMapButtonClick = () => {
+  const handleMapButtonClick = (e) => {
+    // Prevent the default behavior of the button click
+    e.preventDefault();
+
     // URL for Sunny Dry cleaners & Alterations on Google Maps
     const mapURL = 'https://goo.gl/maps/r1FhAjevehy3fmK16';
 
@@ -20,13 +23,14 @@ const Button = ({ styles }) => {
       // If Android user with Google Maps app and using Chrome browser
       window.location.href = `https://maps.google.com/maps?daddr=${mapURL}`;
     } else {
-      // For other devices or browsers
+      // For other devices or browsers, use the anchor tag to open in a new tab
       window.open(mapURL, '_blank');
     }
   };
 
   return (
     <button
+      href='/'
       onClick={handleMapButtonClick}
       type='button'
       className={`py-4 px-6 bg-orange-gradient font-poppins font-medium text-[18px] text-primary outline-none ${styles} rounded-[10px]`}
