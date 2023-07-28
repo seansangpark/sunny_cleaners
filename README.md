@@ -1,6 +1,6 @@
 # Sunny Dry Cleaners - Website
 
-This is the official GitHub repository for the **Sunny Dry Cleaners** website, a local business located in Charlotte, North Carolina. The website is built using React, Tailwind CSS, and Vite JS and is hosted on Hostinger.
+This is the official GitHub repository for the [Sunny Dry Cleaners](https://sunnydrycleaners.net/) website, a local business located in Charlotte, North Carolina. The website is built using React, Tailwind CSS, and Vite JS and is hosted on Hostinger.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This is the official GitHub repository for the **Sunny Dry Cleaners** website, a
 
 ## Introduction
 
-Welcome to the Sunny Dry Cleaners website! This web application serves as an online platform for our local dry cleaning business. Customers can explore our services, find our location, and get in touch with us using the provided contact information. The website aims to enhance customer engagement and improve the overall customer experience.
+Welcome to the [Sunny Dry Cleaners](https://sunnydrycleaners.net/) website! This web application serves as an online platform for our local dry cleaning business. Customers can explore our services, find our location, and get in touch with us using the provided contact information. The website aims to enhance customer engagement and improve the overall customer experience.
 
 ## Features
 
