@@ -11,6 +11,7 @@ import robot from './robot.png';
 import send from './Send.svg';
 import shield from './Shield.svg';
 import star from './Star.svg';
+import sunny from './sunny.png';
 import menu from './menu.svg';
 import close from './close.svg';
 import google from './google.svg';
@@ -39,6 +40,7 @@ export {
   send,
   shield,
   star,
+  sunny,
   menu,
   close,
   google,

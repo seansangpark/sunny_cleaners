@@ -1,4 +1,4 @@
-import { apple, bill, google } from '../assets';
+import { apple, sunny, google } from '../assets';
 import styles, { layout } from '../style';
 
 const Billing = () => (
@@ -8,7 +8,7 @@ const Billing = () => (
   >
     <div className={layout.sectionImgReverse}>
       <img
-        src={bill}
+        src={sunny}
         alt='billing'
         className='w-[100%] h-[100%] relative z-[5]'
       />
