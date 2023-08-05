@@ -48,7 +48,7 @@ const ProCleaner = () => {
       <div className={layout.sectionImg}>
         <img
           src={pro}
-          alt='card'
+          alt='Professional Dry Cleaning in Charlotte, NC'
           className='w-[100%] h-[100%]'
         />
       </div>
